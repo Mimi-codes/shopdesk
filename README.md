@@ -1,7 +1,7 @@
 ## This is an automated test repository on shopdesk
 
 
-#### Test site "https://www.shopdesk.com/" 
+#### Test site "https://shopdesk.im/" 
 ### All configurations have been set up in the config file
 
 #### The project covers test for the following features using cypress Page Object Model for easy structuring in a maintainable and scalable way and each features were tested separately(in a separate file) for easy readability:
