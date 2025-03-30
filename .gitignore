@@ -1,0 +1,8 @@
+node_modules/
+.vscode/
+.idea/
+.DS_Store 
+cypress/screenshots/
+cypress/videos/
+cypress.env.json
+.vercel

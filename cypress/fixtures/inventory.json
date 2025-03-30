@@ -1,0 +1,22 @@
+{
+    "org_btn" : "button:nth-of-type(1)",
+    "add_stock": "div:nth-child(1) > button:nth-child(2)",
+    "item_name_field": "div > input:nth-child(1)",
+    "curr_select": "div:nth-child(2) > div:nth-child(1) > div > button",
+    "selling_price": "div:nth-child(1) > input:nth-child(3)",
+    "cost_price": "div:nth-child(2) > input" ,
+    "quantity": "div:nth-child(3) input",
+    "add_stock_btn": "div:nth-child(4) > button:nth-child(2)",
+    "prod_name_err_field": "div:nth-child(1) > p:nth-child(2)",
+    "prod_name_err_msg": "Product name is required",
+    "sell_price_err_field": "div:nth-child(1) > p:nth-child(4)",
+    "sell_price_err_msg": "Required",
+    "cost_price_err_field": "div:nth-child(2) > p:nth-child(4)",
+    "cost_price_err_msg": "Price is required",
+    "hamburger_btn": "tr:nth-child(1) > td > button",
+    "successs_mssg": "Stock details updated successfully.",
+    "con_btn": "div:nth-child(1) > div:nth-child(4) > button",
+    "success_mssg_field": "h2:nth-child(2)",
+    "edit_input_field": "div:nth-child(3) > input",
+    "edit_btn": "div:nth-child(3) > div:nth-child(1) > button"
+}

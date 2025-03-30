@@ -1,0 +1,21 @@
+{
+"sign_in_field": "h2:nth-of-type(1)",
+"sign_in_val": "Sign in",
+"email_field": "#email",
+"email_val": "bobby@yopmail.com",
+"password_field": "div:nth-child(2) > input",
+"password_val": "Bobby@123",
+"sign_in_btn": "header div:nth-child(3) > button:nth-child(1)",
+"submit_btn": "button:nth-of-type(1)",
+"email_error_field": "div:nth-child(1) > p:nth-child(3)",
+"pass_error_field": "div:nth-child(2) > p",
+"email_error_val": "Email is required.",
+"pass_error_val": "Password is required.",
+"form_error_field": "form > p:nth-child(3)",
+"form_error_val": "Please fill in all required fields.",
+"invalid_email": "test@com",
+"org_page": "h2:nth-of-type(1)",
+"org_val": "Select Your Organization",
+"nonexistent_err_field": "p:nth-child(3)",
+"nonexistent_err_val": "Invalid credentials"
+}
