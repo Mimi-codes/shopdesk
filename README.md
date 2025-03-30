@@ -1,18 +1,11 @@
-## This is an automated test repository on saucedemo
+## This is an automated test repository on shopdesk
 
 
-#### Test site "https://www.saucedemo.com/" 
+#### Test site "https://www.shopdesk.com/" 
 ### All configurations have been set up in the config file
 
 #### The project covers test for the following features using cypress Page Object Model for easy structuring in a maintainable and scalable way and each features were tested separately(in a separate file) for easy readability:
 
-* Login to the application using these credentials:
-{Username - problem_user , Password - secret_sauce}
-{Username - standard_user , Password - secret_sauce}
-* Add and remove products from cart
-* Filter by all possible options
-* View Cart
-* Checkout
 
 
 ##### The dependencies/libraries used are:
